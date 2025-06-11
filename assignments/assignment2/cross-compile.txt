@@ -1,0 +1,4 @@
+Using built-in specs.
+COLLECT_GCC=aarch64-none-linux-gnu-gcc
+COLLECT_LTO_WRAPPER=/home/arko-aesd/arm-cross-compiler/arm-gnu-toolchain-13.3.re1/bin/../libexec/gcc/aarch64-none-linux-gnu/13.3.1/lto-wrapper
+/home/arko-aesd/arm-cross-compiler/arm-gnu-toolchain-13.3.re1/bin/../aarch64-none-linux-gnu/libc
